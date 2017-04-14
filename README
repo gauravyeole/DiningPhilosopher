@@ -1,0 +1,17 @@
+Gaurav Anil Yeole
+EEL5934 Advanced System Programming - Spring 2017
+University of Florida
+
+Assignement - 3
+Dining Philosopher Problem.
+
+Program - eft.c - Source Code of Electronic Fund Transfer
+
+Run the code using following commands:
+
+
+$make
+$./transfProg inputFile numWorkers
+
+where, inputFile is input file,
+	   numWorkers is number of worker threads.
